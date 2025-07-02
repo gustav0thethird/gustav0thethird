@@ -7,13 +7,23 @@
 > 好奇心は創造の源。 // Curiosity is the source of creation.
 ```
 
-<div align="center">
-  <table>
-  <tr>
-  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustav0thethird&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
-  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav0thethird&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
-  </tr>
-  </table>
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustav0thethird&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=9fadc6&icon_color=58a6ff" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav0thethird&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=9fadc6&icon_color=58a6ff" height="140"/>
+</p>
 
-https://camo.githubusercontent.com/626238757866864b3d04ed0c9c43cfc9f8c5983b3c1f085362967381d24761e4/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667
+<p align="center"> 
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
+</p>
+  
+<p align="center">
+  <a href="https://forthebadge.com">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+  </a>
+</p>
