@@ -2,7 +2,7 @@
 ![killer-rabbit-media-chinese-alleyway-export](https://github.com/user-attachments/assets/452fc55d-1930-4eb2-a530-1980377ff627)
 
 ```bash
-> Systems Engineer | Automation Architect | Flux Capacitor Enjoyer
+> Systems Engineer | Homelab Enthusiast | Flux Capacitor Enjoyer
 > Currently dreaming in Python, Bash, and infrastructure as code.
 > 好奇心は創造の源。 // Curiosity is the source of creation.
 ```
