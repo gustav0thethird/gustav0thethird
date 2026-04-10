@@ -8,8 +8,8 @@
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustav0thethird&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=9fadc6&icon_color=58a6ff" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustav0thethird&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=9fadc6&icon_color=58a6ff" height="140"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gustav0thethird&show_icons=true&theme=radical" height="210"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustav0thethird&theme=radical&size_weight=0.5&count_weight=0.5" height="195"/>
 </p>
 
 <p align="center"> 
@@ -24,6 +24,6 @@
   
 <p align="center">
   <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
+    <img src="https://forthebadge.com/badges/built-with-love.svg" alt="Built with Love"/>
   </a>
 </p>
