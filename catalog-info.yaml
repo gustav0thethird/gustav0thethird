@@ -2,15 +2,20 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: gustav0thethird
-  description: Source of truth. Mirrored out to github.com/gustav0thethird/gustav0thethird.
+  description: GitHub profile README
   annotations:
-    # Tells TechDocs the docs live in this repo, built from mkdocs.yml.
     backstage.io/techdocs-ref: dir:.
     gitlab.com/project-slug: yditj/projects/archive/gustav0thethird
+  links:
+    - url: https://github.com/gustav0thethird/gustav0thethird
+      title: GitHub
+      icon: github
   tags:
+    - profile
+    - readme
     - archive
 spec:
-  type: service
+  type: documentation
   lifecycle: experimental
   owner: gtully
   system: archive
