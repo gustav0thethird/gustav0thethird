@@ -17,14 +17,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.last.fm/user/Tahloz">
-    <img src="https://lastfm-profile-readme.vercel.app/api/Tahloz?color=191919&textColor=ffffff&isRounded=true&displayName=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
   <!-- Cloud & Containers -->
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
