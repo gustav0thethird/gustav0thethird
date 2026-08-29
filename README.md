@@ -1,6 +1,8 @@
 
 ![killer-rabbit-media-chinese-alleyway-export](https://github.com/user-attachments/assets/452fc55d-1930-4eb2-a530-1980377ff627)
 
+---
+
 ```bash
 > Systems Engineer | Homelab Enthusiast | Flux Capacitor Enjoyer
 > Currently dreaming in Python, Bash, and infrastructure as code.
@@ -11,6 +13,16 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=gustav0thethird&show_icons=true&theme=radical" height="210"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustav0thethird&theme=radical&size_weight=0.5&count_weight=0.5" height="195"/>
 </p>
+
+---
+
+<p align="center">
+  <a href="https://www.last.fm/user/Tahloz">
+    <img src="https://lastfm-profile-readme.vercel.app/api/Tahloz?color=191919&textColor=ffffff&isRounded=true&displayName=true" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <!-- Cloud & Containers -->
