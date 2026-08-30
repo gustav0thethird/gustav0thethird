@@ -1,9 +1,9 @@
 site_name: gustav0thethird
 site_description: GitHub profile README
-
 plugins:
-  - techdocs-core
-
+- techdocs-core
 nav:
-  - Home: index.md
-  - Readme: readme.md
+- Overview: index.md
+- Readme: readme.md
+- CI Configuration: ci-configuration.md
+- Backstage Integration: backstage-integration.md

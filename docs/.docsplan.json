@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {
+      "path": "index.md",
+      "title": "Overview",
+      "globs": [
+        "README.md",
+        "catalog-info.yaml"
+      ],
+      "summary": "An overview of the repository, its purpose, and key features."
+    },
+    {
+      "path": "readme.md",
+      "title": "Readme",
+      "globs": [
+        "README.md"
+      ],
+      "summary": "Detailed information about the project, including setup and usage instructions."
+    },
+    {
+      "path": "ci-configuration.md",
+      "title": "CI Configuration",
+      "globs": [
+        ".gitlab-ci.yml"
+      ],
+      "summary": "Information about the CI/CD setup using GitLab CI, including templates and workflows."
+    },
+    {
+      "path": "backstage-integration.md",
+      "title": "Backstage Integration",
+      "globs": [
+        "catalog-info.yaml"
+      ],
+      "summary": "Details on how this project integrates with Backstage for documentation and component management."
+    }
+  ]
+}

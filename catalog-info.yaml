@@ -2,18 +2,22 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: gustav0thethird
-  description: GitHub profile README
+  description: This repository focuses on infrastructure as code and cloud technologies
+    using various DevOps tools.
   annotations:
     backstage.io/techdocs-ref: dir:.
     gitlab.com/project-slug: yditj/projects/archive/gustav0thethird
   links:
-    - url: https://github.com/gustav0thethird/gustav0thethird
-      title: GitHub
-      icon: github
+  - url: https://github.com/gustav0thethird/gustav0thethird
+    title: GitHub
+    icon: github
   tags:
-    - profile
-    - readme
-    - archive
+  - devops
+  - infrastructure-as-code
+  - cloud
+  - kubernetes
+  - docker
+  - python
 spec:
   type: documentation
   lifecycle: experimental

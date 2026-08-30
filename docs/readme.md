@@ -1,30 +1,65 @@
 # Readme
 
-![killer-rabbit-media-chinese-alleyway-export](https://github.com/user-attachments/assets/452fc55d-1930-4eb2-a530-1980377ff627)
+## Project Overview
 
-```bash
-> Systems Engineer | Homelab Enthusiast | Flux Capacitor Enjoyer
-> Currently dreaming in Python, Bash, and infrastructure as code.
-> 好奇心は創造の源。 // Curiosity is the source of creation.
-```
+The `gustav0thethird` project serves as a GitHub profile README. It is designed to provide a structured representation of information related to the profile, including links and descriptions relevant to the owner.
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=gustav0thethird&show_icons=true&theme=radical" height="210"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustav0thethird&theme=radical&size_weight=0.5&count_weight=0.5" height="195"/>
-</p>
+## Setup Instructions
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
-</p>
-  
-<p align="center">
-  <a href="https://forthebadge.com">
-    <img src="https://forthebadge.com/badges/built-with-love.svg" alt="Built with Love"/>
-  </a>
-</p>
+To set up the project, ensure you have the necessary tools installed:
+
+1. **MkDocs**: This project uses MkDocs for documentation generation. Install MkDocs via pip if you haven't already:
+
+   ```bash
+   pip install mkdocs
+   ```
+
+2. **Git**: Ensure you have Git installed to clone the repository.
+
+## Usage Instructions
+
+To use this project, follow these steps:
+
+1. **Clone the Repository**:
+
+   ```bash
+   git clone https://github.com/gustav0thethird/gustav0thethird.git
+   cd gustav0thethird
+   ```
+
+2. **Serve the Documentation**:
+
+   You can serve the documentation locally using MkDocs:
+
+   ```bash
+   mkdocs serve
+   ```
+
+   This will start a local server, and you can view the documentation in your web browser at `http://127.0.0.1:8000`.
+
+3. **Build the Documentation**:
+
+   To build the documentation for deployment, run:
+
+   ```bash
+   mkdocs build
+   ```
+
+   This will generate a `site` directory containing the static files for your documentation.
+
+## Project Structure
+
+- `.gitlab-ci.yml`: Configuration for GitLab CI/CD, including templates for documentation and mirroring.
+- `README.md`: The main README file for the project.
+- `catalog-info.yaml`: Metadata for Backstage integration, describing the project and its components.
+- `docs/index.md`: The main index page for the documentation.
+- `docs/readme.md`: This README file, providing detailed information about the project.
+- `mkdocs.yml`: Configuration file for MkDocs, defining site name, description, and navigation structure.
+
+## Additional Information
+
+- **Owner**: The project is owned by `gtully`.
+- **Lifecycle**: The project is currently in an experimental phase.
+- **Tags**: The project is tagged with `profile`, `readme`, and `archive` for categorization.
+
+For more information, visit the [GitHub repository](https://github.com/gustav0thethird/gustav0thethird).
